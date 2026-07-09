@@ -44,8 +44,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/></a>
-  <a href="mailto:parthattavar@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="gmail" width="30" height="30"/></a>
+  <a href="mailto:parthattavar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
 ---
@@ -54,7 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boopatb&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boopatb&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=boopatb&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
